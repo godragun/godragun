@@ -8,11 +8,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,laravel,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode&theme=dark&perline=8" />
 
 </div>
 
-**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Bootstrap, WordPress
+**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript
 
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-> *"A good programmer is someone who looks both ways before crossing a one-way street."* - Doug Linder
+> *"Avery problem has a solution u just need to find it if u don't know ask help ."* 
