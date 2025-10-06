@@ -7,8 +7,8 @@
 ## 🛠 Tech Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode,spline&theme=dark&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode&theme=dark&perline=8" />
 
 </div>
 
