@@ -12,7 +12,7 @@
 
 </div>
 
-**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript
+**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript,spline
 
 ---
 
