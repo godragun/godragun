@@ -6,25 +6,13 @@
 
 ## 🛠 Tech Stack
 
-**Programming & Markup Languages**
-- **C++** • **CSS3** • **JavaScript** • **Java** • **HTML5**
-- **Python** • **PowerShell** • **PHP** •  **opencv**
+<div align="center">
 
-**Frameworks & Libraries**
-- **React** • **Node.js** • **Laravel** • **Arduino**
+<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,laravel,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode&theme=dark&perline=8" />
 
-**Databases**
-- **MySQL** 
+</div>
 
-**Cloud & Deployment**
-- **AWS** • **Cloudflare** • **Google Cloud** • **Heroku**
-- **DigitalOcean** • **Netlify** • **Oracle Cloud*
-
-**Tools & Platforms**
-- **Windows Terminal** • **Canva** • **Figma**.**FreeCAD**.**Blender**
-- **Adobe Creative Cloud** (Photoshop, Premiere Pro, InDesign, Illustrator, After Effects)
-- **Cisco**
-
+**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Bootstrap, WordPress
 
 ---
 
