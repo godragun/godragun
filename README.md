@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Godragun!
+# Hi welcome fellow traveller , I'm Godragun! a wizard-engineer
 
 **Undergraduate** | **Sri Lanka** 
 
