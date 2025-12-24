@@ -1,20 +1,16 @@
-![Profile Views](https://komarev.com/ghpvc/?username=godragun&color=blue)
+# Hi welcome fellow traveller , I'm Godragun! a wizard-engineer
 
-# Hi welcome fellow traveller , I'm Godragun! 🧙‍♂️⚙️  
-*a wizard-engineer*
-
-**Undergraduate** | **Sri Lanka** 🇱🇰
+**Undergraduate** | **Sri Lanka**
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode,spline&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode,spline&theme=dark&perline=8" />
 </div>
 
-**Technologies I use:**  
-OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Spline
+**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, spline
 
 ---
 
@@ -34,8 +30,7 @@ OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Spline
 
 ## 🤝 Let's Collaborate!
 
-- [x] I'm on a continuous journey of learning and honing my skills.  
-- [x] If you have exciting project ideas or collaboration opportunities, feel free to drop them in my inbox! 🌤✨
+- [x] I'm on a continuous journey of learning and honing my skills. If you have exciting project suggestions or collaboration ideas, feel free to drop them in my inbox! 🌤✨
 
 ---
 
@@ -45,4 +40,10 @@ OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Spline
 
 ---
 
-> *"Every problem has a solution — you just need to find it. If you don't know, ask for help."*
+> *"Avery problem has a solution u just need to find it if u don't know ask help ."*
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake dark" />
+</div>
