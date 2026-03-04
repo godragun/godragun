@@ -1,4 +1,4 @@
-# Hi welcome fellow traveller , I'm Godragun! a wizard-engineer
+# Hi welcome fellow traveller, I'm Godragun! a wizard-engineer
 
 **Undergraduate** | **Sri Lanka**
 
@@ -6,24 +6,112 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode,spline&theme=dark&perline=8" />
-</div>
+Below is my set of tools and languages. Each icon links to its official documentation.
 
-**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, spline
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" alt="Google Cloud" />
+  </a>
+  <a href="https://www.heroku.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=heroku&theme=dark" alt="Heroku" />
+  </a>
+  <a href="https://www.digitalocean.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=digitalocean&theme=dark" alt="DigitalOcean" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" alt="Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=premiere&theme=dark" alt="Premiere Pro" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=illustrator&theme=dark" alt="Illustrator" />
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aftereffects&theme=dark" alt="After Effects" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+  </a>
+  <a href="https://spline.design/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spline&theme=dark" alt="Spline" />
+  </a>
+</p>
+
+**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Spline
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Godragun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godragun&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godragun&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godragun&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=godragun&show_icons=true&theme=radical" alt="Godragun's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godragun&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godragun&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -40,12 +128,10 @@
 
 ---
 
-> *"Avery problem has a solution u just need to find it if u don't know ask help ."*
+> *"Every problem has a solution, you just need to find it. If you don't know, ask for help."*
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake dark" />
 </div>
-
-
