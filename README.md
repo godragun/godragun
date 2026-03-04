@@ -1,12 +1,10 @@
-# Hi welcome fellow traveller, I'm Godragun! a wizard-engineer
+# Hi welcome fellow traveller, I'm Godragun! a wizard-engineer 🧙‍♂️⚙️
 
 **Undergraduate** | **Sri Lanka**
 
 ---
 
 ## 🛠 Tech Stack
-
-Below is my set of tools and languages. Each icon links to its official documentation.
 
 <p align="center">
   <a href="https://isocpp.org/" target="_blank">
@@ -88,6 +86,7 @@ Below is my set of tools and languages. Each icon links to its official document
     <img src="https://skillicons.dev/icons?i=aftereffects&theme=dark" alt="After Effects" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.microsoft.com/windows" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" />
@@ -104,15 +103,17 @@ Below is my set of tools and languages. Each icon links to its official document
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godragun&show_icons=true&theme=radical" alt="Godragun's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godragun&layout=compact&theme=radical" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godragun&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF&area=true&hide_border=true" alt="Godragun's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=godragun&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 
 ---
 
@@ -129,9 +130,3 @@ Below is my set of tools and languages. Each icon links to its official document
 ---
 
 > *"Every problem has a solution, you just need to find it. If you don't know, ask for help."*
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake dark" />
-</div>
