@@ -124,7 +124,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mail" width="35" /> Contact Me
 
-**Email:** harendrathennakoon28@gmail.com
+**Email:** godragunlk@gmail.com
 
 ---
 
