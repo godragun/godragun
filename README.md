@@ -115,6 +115,18 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Collaborate!
 
 
