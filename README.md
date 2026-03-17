@@ -1,8 +1,6 @@
 # Hi welcome fellow traveller, I'm Godragun! a wizard-engineer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" />
 
-**Undergraduate** | **Sri Lanka**
-
----
+**Undergraduate** | **Sri Lanka** ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
@@ -106,7 +104,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF&area=true&hide_border=true" alt="Godragun's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF&area=true&hide_border=true&v=1" alt="Godragun's Activity Graph" />
 </p>
 
 <p align="center">
