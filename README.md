@@ -1,4 +1,4 @@
-﻿# Hi welcome fellow traveller, I'm Godragun! a wizard-engineer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" />
+# Hi welcome fellow traveller, I'm Godragun! a wizard-engineer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" />
 
 **Undergraduate** | **Sri Lanka** ---
 
@@ -19,12 +19,12 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=godragun&theme=radical&hide_border=true&v=5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godragun&theme=radical&hide_border=true&v=5" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📈 Activity & Contributions
+## ?? Activity & Contributions
 
 
 <div align="center">
