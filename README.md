@@ -18,6 +18,10 @@
   <img src="https://streak-stats.demolab.com/?user=godragun&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
