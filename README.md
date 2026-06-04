@@ -12,11 +12,10 @@
 
 ---
 
-## 🔮 Current Focus & Status
+## 🐻 Welcome to the Cave
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
-  <h3>Thanks for dropping by! Come again soon!</h3>
+  <img src="https://media.giphy.com/media/Jk4ZT6R0OEUoM/giphy.gif" alt="Hacking Bear" width="200" />
 </div>
 
 <p align="center">
@@ -28,7 +27,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=6" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=7" alt="Activity Graph" />
 </p>
 
 ---
@@ -36,7 +35,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=6" alt="github contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=7" alt="github contribution snake" width="100%" />
 </div>
 
 ---
