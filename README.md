@@ -1,6 +1,4 @@
-Here is the complete, updated `README.md` code. You can copy this entire block and paste it directly into your file to replace everything.
 
-```markdown
 # Hi welcome fellow traveller, I'm Godragun! a wizard-engineer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" />
 
 **Undergraduate** | **Sri Lanka** 
