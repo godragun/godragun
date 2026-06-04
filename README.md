@@ -104,7 +104,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=godragun&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godragun&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
