@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
 <p align="center">
-  <a href="https://isocpp.org/" target="_blank">
+  <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
