@@ -12,12 +12,14 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🔮 Current Focus & Visitor Stats
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=godragun&label=Profile%20Views&color=9b51e0&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=godragun&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="godragun trophies" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B51E0&center=true&vCenter=true&width=500&lines=Building+Autonomous+Robots...;Mastering+ESP32+%26+Raspberry+Pi...;Full-Stack+Web+Development...;Wizard+Engineer+at+Work..." alt="Typing SVG" />
 </p>
 
 ---
@@ -25,7 +27,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=4" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=5" alt="Activity Graph" />
 </p>
 
 ---
@@ -33,7 +35,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=4" alt="github contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=5" alt="github contribution snake" width="100%" />
 </div>
 
 ---
