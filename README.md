@@ -1,4 +1,4 @@
-
+﻿
 # Hi welcome fellow traveller, I'm Godragun! a wizard-engineer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" />
 
 **Undergraduate** | **Sri Lanka** ---
@@ -42,7 +42,7 @@
 
 ---
 
-## 🐻 Welcome to the Cave
+## ðŸ» Welcome to the Cave
 
 <div align="center">
   <img src="https://media.giphy.com/media/Jk4ZT6R0OEUoM/giphy.gif" alt="Hacking Bear" width="200" />
@@ -54,18 +54,18 @@
 
 ---
 
-## 📈 Activity Graph
+## ðŸ“ˆ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=9" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=10" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## ðŸ Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=9" alt="github contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=10" alt="github contribution snake" width="100%" />
 </div>
 
 ---
@@ -89,3 +89,4 @@ Set-Content -Path README.md -Value $readmeContent -Encoding UTF8
 git add README.md
 git commit -m "Restore the complete 27-icon tech stack grid"
 git push
+
