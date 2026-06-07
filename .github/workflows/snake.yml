@@ -1,6 +1,9 @@
-name: Generate Contribution Snake
+﻿name: Sync Profile Graphs
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -9,25 +12,42 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate snake
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: godragun
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Cache Buster in README
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i "s/v=[0-9]*/v=$TIMESTAMP/g" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No README changes needed"
+          else
+            git commit -m "Auto-sync: refresh graph cache [skip ci]"
+            git push
+          fi
