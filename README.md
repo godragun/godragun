@@ -42,7 +42,7 @@
 
 ---
 
-## ðŸ» Welcome to the Cave
+## 🐻  Welcome to the Cave
 
 <div align="center">
   <img src="https://media.giphy.com/media/Jk4ZT6R0OEUoM/giphy.gif" alt="Hacking Bear" width="200" />
@@ -54,7 +54,7 @@
 
 ---
 
-## ðŸ“ˆ Activity Graph
+## 📈  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=1780829788" alt="Activity Graph" />
@@ -62,7 +62,7 @@
 
 ---
 
-## ðŸ Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=1780829788" alt="github contribution snake" width="100%" />
