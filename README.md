@@ -1,7 +1,7 @@
    
 # Hi welcome fellow traveller, I'm Godragun! a wizard-engineer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" /> 
 
-**Undergraduate** | **Sri Lanka** 
+**Undergraduate** | **Sri Lanka**  
                                               
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
