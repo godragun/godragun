@@ -40,9 +40,12 @@
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
   <a href="https://spline.design/"><img src="https://skillicons.dev/icons?i=spline&theme=dark" alt="Spline" /></a>
+  <br><br>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
+  <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
+  <a href="https://www.freecadweb.org/"><img src="https://img.shields.io/badge/FreeCAD-273AA0?style=for-the-badge&logo=freecad&logoColor=white" alt="FreeCAD" /></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /></a>
 </div>
-
-**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript, Spline, ESP32
 
 ---
 
@@ -61,7 +64,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" />  Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=1786849002" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=1786841588" alt="Activity Graph" />
 </p>
 
 ---
@@ -69,7 +72,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=1786849002" alt="github contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=1786841588" alt="github contribution snake" width="100%" />
 </div>
 
 ---
