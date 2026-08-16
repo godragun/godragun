@@ -21,14 +21,14 @@
   <a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
-  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" alt="Google Cloud" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" /></a>
   <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku&theme=dark" alt="Heroku" /></a>
-  <a href="https://www.digitalocean.com/"><img src="https://skillicons.dev/icons?i=digitalocean&theme=dark" alt="DigitalOcean" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
   <br><br>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
   <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" /></a>
-  <a href="https://www.oracle.com/"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
   <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" alt="Photoshop" /></a>
@@ -38,8 +38,11 @@
   <br><br>
   <a href="https://www.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
   <a href="https://spline.design/"><img src="https://skillicons.dev/icons?i=spline&theme=dark" alt="Spline" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>
   <br><br>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
@@ -64,7 +67,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" />  Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=1786849138" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godragun&bg_color=0d1117&color=9b51e0&line=9b51e0&point=ffffff&area=true&hide_border=true&v=1786841588" alt="Activity Graph" />
 </p>
 
 ---
@@ -72,7 +75,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=1786849138" alt="github contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg?v=1786841588" alt="github contribution snake" width="100%" />
 </div>
 
 ---
