@@ -104,6 +104,22 @@
   </a>
 </p>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> Business & Freelance Inquiries
+
+<p align="left">
+  <a href="https://www.godragun.dev/">
+    <img src="https://img.shields.io/badge/Hardware-godragun.dev-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="godragun.dev"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://xyrex.vercel.app/#">
+    <img src="https://img.shields.io/badge/Software_Agency-Xyrex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Xyrex"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/s/DmzzZWy">
+    <img src="https://img.shields.io/badge/Hire_Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+</p>
+
 ---
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="25" /> *"Every problem has a solution, you just need to find it. If you don't know, ask for help."*
