@@ -56,15 +56,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godragun&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=godragun&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godragun&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=godragun&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=godragun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=godragun&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
