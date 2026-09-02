@@ -71,6 +71,10 @@
   <img src="https://streak-stats.demolab.com?user=godragun&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/godragun/godragun/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Graph
