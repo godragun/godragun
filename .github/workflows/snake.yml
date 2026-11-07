@@ -21,6 +21,12 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.2
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true
+          path: dist/github-streak.svg
+
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
